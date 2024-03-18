@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, welcome to my GitHub profile!
+![Image representing my user name](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FHow-do-you-say-Warrior-in-Japanese-correctly-I-want-to-tattoo-it&psig=AOvVaw3OHSaX3v0l6jQIVpI0A8eP&ust=1710879917702000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCLihyb_S_oQDFQAAAAAdAAAAABDwAQ)
+**Who am I?**
+I am an aspiring 
 
 <!--
 **ZayedSenshi/ZayedSenshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
