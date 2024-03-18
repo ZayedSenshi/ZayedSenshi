@@ -8,5 +8,6 @@ In the little hours I have during the day, I spend most of it imparting knowledg
 - 👯 I’m looking to collaborate on any small scale projects designed for a fledgling like myself. :stuck_out_tongue_closed_eyes:
 - 🤔 I’m looking for help with how to create more complex star patterns to practice the for loop. :exploding_head: (and honestly, any help you are willing to offer)
 - 📫 How to reach me: www.linkedin.com/in/simon-mills-755497233
-- ⚡ Fun fact: Literally obsessed with anime, can you guess my favourite? :grin:
-## Don't be afraid to reach out! :blush:
+- ⚡ Fun fact: Literally obsessed with anime, can you guess my favourite? :grin: P.s see if you can work out the meaning of the image at the bottom. :monocle_face: :slightly_smiling_face: (it is linked to my identity)
+
+![Senshi](https://github.com/ZayedSenshi/ZayedSenshi/assets/163900881/99b0139b-6b8f-4478-a4be-c4af33557db8)
